@@ -1,4 +1,4 @@
-# Crypto Price Analysis Project – Richmond Dias
+# Data Analyst Project – Richmond Dias
 
 This project addresses a data analyst task focused on retrieving, cleaning, and visualizing historical price data for Ethereum and Bitcoin using Python.
 
